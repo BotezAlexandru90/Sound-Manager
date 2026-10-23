@@ -1,0 +1,64 @@
+╔══════════════════════════════════════════════════════════════════════╗
+║                    SOUND MANAGER - QUICK REFERENCE                   ║
+╠══════════════════════════════════════════════════════════════════════╣
+║                                                                      ║
+║  VOLUME CONTROL                                                      ║
+║  ├─ Drag slider         → Adjust volume (0-100%)                    ║
+║  ├─ Click 🔊/🔇         → Toggle mute/unmute                        ║
+║  └─ Auto-sync           → Updates every 200ms                        ║
+║                                                                      ║
+║  WINDOW CONTROLS                                                     ║
+║  ├─ Drag window         → Move anywhere                             ║
+║  ├─ Drag left/right edge→ Resize width (200-1000px)                 ║
+║  ├─ Click —             → Minimize                                  ║
+║  └─ Click ✕             → Close                                     ║
+║                                                                      ║
+║  EXCLUSIONS (NEW!)                                                   ║
+║  ├─ Right-click app     → Quick exclude                             ║
+║  ├─ Click ⚙ button      → Open settings                             ║
+║  ├─ Add Executable...   → Manual add                                ║
+║  └─ Remove Selected     → Re-enable monitoring                      ║
+║                                                                      ║
+║  BUTTONS                                                             ║
+║  ├─ ⚙ (Cogwheel)        → Exclusions settings                       ║
+║  └─ ? (Help)            → About dialog                              ║
+║                                                                      ║
+║  STATUS BAR                                                          ║
+║  └─ Shows: "X apps monitored (Y excluded)"                          ║
+║                                                                      ║
+║  FILES                                                               ║
+║  ├─ config.json         → Window position/size                      ║
+║  └─ exclusions.json     → Excluded applications                     ║
+║                                                                      ║
+╠══════════════════════════════════════════════════════════════════════╣
+║  COMMON TASKS                                                        ║
+╠══════════════════════════════════════════════════════════════════════╣
+║                                                                      ║
+║  Hide an app:                                                        ║
+║    1. Right-click the app                                           ║
+║    2. Click "Exclude from monitoring"                               ║
+║                                                                      ║
+║  Show a hidden app:                                                  ║
+║    1. Click ⚙ button                                                ║
+║    2. Select the app                                                 ║
+║    3. Click "Remove Selected"                                        ║
+║    4. Click "Close"                                                  ║
+║                                                                      ║
+║  Manually exclude an app:                                            ║
+║    1. Click ⚙ button                                                ║
+║    2. Click "Add Executable..."                                      ║
+║    3. Browse to the .exe file                                        ║
+║    4. Click "Open"                                                   ║
+║                                                                      ║
+╠══════════════════════════════════════════════════════════════════════╣
+║  TIPS                                                                ║
+╠══════════════════════════════════════════════════════════════════════╣
+║                                                                      ║
+║  • Settings are saved automatically                                  ║
+║  • Exclusions persist across restarts                                ║
+║  • Hover over excluded apps to see full path                         ║
+║  • Apps appear when they play audio                                  ║
+║  • Window stays on top of other windows                              ║
+║  • Height adjusts based on number of apps                            ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝

@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+build/
+dist/
+*.zip
+.venv/
+venv/
+
+# User-specific runtime files
+config.json
+exclusions.json

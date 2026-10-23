@@ -1,0 +1,158 @@
+╔══════════════════════════════════════════════════════════════════════╗
+║              SOUND MANAGER - QUICK REFERENCE CARD                    ║
+╠══════════════════════════════════════════════════════════════════════╣
+║                                                                      ║
+║  FILE: SoundManager.exe                                              ║
+║  SIZE: ~49 MB                                                        ║
+║  TYPE: Standalone Windows executable                                 ║
+║  REQUIREMENTS: Windows 10/11 (64-bit) - Nothing else!                ║
+║                                                                      ║
+╠══════════════════════════════════════════════════════════════════════╣
+║  QUICK START                                                         ║
+╠══════════════════════════════════════════════════════════════════════╣
+║                                                                      ║
+║  1. Double-click SoundManager.exe                                    ║
+║  2. Play audio in any app                                            ║
+║  3. App appears automatically                                        ║
+║  4. Drag slider to adjust volume                                     ║
+║  5. Click 🔊/🔇 to mute/unmute                                      ║
+║                                                                      ║
+╠══════════════════════════════════════════════════════════════════════╣
+║  CONTROLS                                                            ║
+╠══════════════════════════════════════════════════════════════════════╣
+║                                                                      ║
+║  VOLUME:        Drag slider left/right (0-100%)                      ║
+║  MUTE:          Click 🔊 (green) → Muted 🔇 (red)                   ║
+║  UNMUTE:        Click 🔇 (red) → Unmuted 🔊 (green)                 ║
+║  HIDE APP:      Right-click → "Exclude from monitoring"             ║
+║  SETTINGS:      Click ⚙ button (bottom-right)                       ║
+║  HELP:          Click ? button (bottom-right)                        ║
+║  MOVE:          Click and drag anywhere                              ║
+║  RESIZE:        Drag left or right edge                              ║
+║  MINIMIZE:      Click — button                                       ║
+║  CLOSE:         Click ✕ button                                       ║
+║                                                                      ║
+╠══════════════════════════════════════════════════════════════════════╣
+║  FEATURES                                                            ║
+╠══════════════════════════════════════════════════════════════════════╣
+║                                                                      ║
+║  ✓ Per-application volume control                                    ║
+║  ✓ Individual mute/unmute buttons                                    ║
+║  ✓ Exclude apps from monitoring                                      ║
+║  ✓ Always-on-top window                                              ║
+║  ✓ Auto-saves position & settings                                    ║
+║  ✓ Real-time volume sync                                             ║
+║  ✓ Dynamic window sizing                                             ║
+║  ✓ Lightweight (<20 MB RAM, <1% CPU)                                 ║
+║                                                                      ║
+╠══════════════════════════════════════════════════════════════════════╣
+║  COMMON TASKS                                                        ║
+╠══════════════════════════════════════════════════════════════════════╣
+║                                                                      ║
+║  Lower music while gaming:                                           ║
+║    → Drag music slider to 30%                                        ║
+║    → Keep game at 80%                                                ║
+║                                                                      ║
+║  Mute browser during call:                                           ║
+║    → Click 🔊 on browser                                            ║
+║    → Focus on call                                                   ║
+║    → Click 🔇 when done                                             ║
+║                                                                      ║
+║  Hide unwanted apps:                                                 ║
+║    → Right-click app                                                 ║
+║    → Click "Exclude from monitoring"                                 ║
+║                                                                      ║
+║  Show hidden apps:                                                   ║
+║    → Click ⚙ button                                                 ║
+║    → Select app                                                      ║
+║    → Click "Remove Selected"                                         ║
+║                                                                      ║
+╠══════════════════════════════════════════════════════════════════════╣
+║  TROUBLESHOOTING                                                     ║
+╠══════════════════════════════════════════════════════════════════════╣
+║                                                                      ║
+║  App doesn't appear:                                                 ║
+║    → Make sure it's playing audio                                    ║
+║    → Wait 5 seconds                                                  ║
+║    → Check exclusions (⚙ button)                                    ║
+║                                                                      ║
+║  Windows security warning:                                           ║
+║    → Click "More info"                                               ║
+║    → Click "Run anyway"                                              ║
+║    → (Normal for unsigned apps)                                      ║
+║                                                                      ║
+║  Slider doesn't move:                                                ║
+║    → Release the slider                                              ║
+║    → Wait 200ms for sync                                             ║
+║                                                                      ║
+║  Window off-screen:                                                  ║
+║    → Delete config.json                                              ║
+║    → Restart app                                                     ║
+║                                                                      ║
+╠══════════════════════════════════════════════════════════════════════╣
+║  TIPS & TRICKS                                                       ║
+╠══════════════════════════════════════════════════════════════════════╣
+║                                                                      ║
+║  💡 Place in corner - stays on top but doesn't block                 ║
+║  💡 Exclude background apps you never adjust                         ║
+║  💡 Status bar shows monitored & excluded count                      ║
+║  💡 Hover over excluded apps to see full path                        ║
+║  💡 Minimize when not needed - keeps running                         ║
+║  💡 Settings save automatically - no save button                     ║
+║                                                                      ║
+╠══════════════════════════════════════════════════════════════════════╣
+║  KEYBOARD SHORTCUTS                                                  ║
+╠══════════════════════════════════════════════════════════════════════╣
+║                                                                      ║
+║  Currently: Mouse-driven interface                                   ║
+║  (Keyboard shortcuts may be added in future versions)                ║
+║                                                                      ║
+╠══════════════════════════════════════════════════════════════════════╣
+║  SYSTEM INFO                                                         ║
+╠══════════════════════════════════════════════════════════════════════╣
+║                                                                      ║
+║  Platform:      Windows 10/11 (64-bit only)                          ║
+║  Memory:        ~20 MB when running                                  ║
+║  CPU:           <1% (very lightweight)                               ║
+║  Disk:          ~49 MB (executable only)                             ║
+║  Network:       None required (100% offline)                         ║
+║  Admin:         Not required                                         ║
+║                                                                      ║
+╠══════════════════════════════════════════════════════════════════════╣
+║  FILES CREATED                                                       ║
+╠══════════════════════════════════════════════════════════════════════╣
+║                                                                      ║
+║  config.json ......... Window position & size                        ║
+║  exclusions.json ..... List of hidden apps                           ║
+║                                                                      ║
+║  Both files are created in the same folder as SoundManager.exe       ║
+║                                                                      ║
+╠══════════════════════════════════════════════════════════════════════╣
+║  PRIVACY & SECURITY                                                  ║
+╠══════════════════════════════════════════════════════════════════════╣
+║                                                                      ║
+║  ✓ No internet connection                                            ║
+║  ✓ No data collection                                                ║
+║  ✓ No telemetry                                                      ║
+║  ✓ No analytics                                                      ║
+║  ✓ All data stays local                                              ║
+║  ✓ No admin rights needed                                            ║
+║                                                                      ║
+╠══════════════════════════════════════════════════════════════════════╣
+║  SUPPORT                                                             ║
+╠══════════════════════════════════════════════════════════════════════╣
+║                                                                      ║
+║  For help: See README.txt                                            ║
+║  For details: See product presentation folder (if included)          ║
+║                                                                      ║
+╠══════════════════════════════════════════════════════════════════════╣
+║  VERSION                                                             ║
+╠══════════════════════════════════════════════════════════════════════╣
+║                                                                      ║
+║  Sound Manager v1.0                                                  ║
+║  Created by Digital Epoch                                            ║
+║  2026                                                                ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+Print this card for quick reference!
